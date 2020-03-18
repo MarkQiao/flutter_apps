@@ -21,7 +21,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   String _str = '按键';
-  TextEditingController _userPasswordController = new TextEditingController();
+  TextEditingController _userPasswordController = new TextEditingController(); //创建exitview 控制器
 
   void _incrementCounter() {}
 
